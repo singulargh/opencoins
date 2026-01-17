@@ -66,8 +66,8 @@ If you want to modify the plugin or contribute:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/opencoins_mcp.git
-cd opencoins_mcp
+git clone https://github.com/singulargh/opencoins.git
+cd opencoins
 
 # Install dependencies
 npm install
@@ -442,8 +442,8 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ## Support
 
-- GitHub Issues: [https://github.com/yourusername/opencoins_mcp/issues](https://github.com/singulargh/opencoins/issues)
-- Documentation: [https://github.com/yourusername/opencoins_mcp/docs](https://github.com/singulargh/opencoins/docs)
+- GitHub Issues: [https://github.com/singulargh/opencoins/issues](https://github.com/singulargh/opencoins/issues)
+- Documentation: [https://github.com/singulargh/opencoins/docs](https://github.com/singulargh/opencoins/docs)
 
 ## Disclaimer
 
