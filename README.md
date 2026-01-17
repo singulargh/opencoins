@@ -1,4 +1,4 @@
-# OpenCoins Launchpad MCP
+# OpenCoins Launchpad Plugin
 
 An [OpenCode.ai](https://opencode.ai) plugin that enables AI-assisted token deployment on EVM and Solana networks with built-in launchpad functionality and automated fee collection.
 
