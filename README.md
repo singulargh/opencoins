@@ -66,7 +66,7 @@ If you want to modify the plugin or contribute:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/opencoins_mcp.git
+git clone https://github.com/singulargh/opencoins.git
 cd opencoins_mcp
 
 # Install dependencies
